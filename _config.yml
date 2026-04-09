@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: My Blog
+description: A blog about things I find interesting
+theme: minima
+
