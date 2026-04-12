@@ -3,7 +3,7 @@ layout: default
 title: Blogs
 ---
 
-# 📰 All Blog Posts (Scroll to Read)
+# 📰 All Blog Posts
 
 {% for post in site._posts %}
 ## {{ post.title }}
