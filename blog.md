@@ -16,7 +16,7 @@ Welcome to my blog! Choose a section to explore.
 ---
 ## 🗂️ All Blog Posts
 
-{% for post in site.posts %}
+{% for post in site._posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
