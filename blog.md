@@ -1,10 +1,19 @@
 ---
 layout: default
-title: Blog
+title: Blogs
 ---
 
-# All Posts
+# 📚 Blog Sections
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+Welcome to my blog! Choose a section to explore.
+
+---
+
+## ✨ Sections
+
+- [About Posts](about-posts)
+- [Embedded Systems](embedded-systems)
+- [German Learning](german-learning)
+- [All Blog Posts](all-posts)
+
+---
