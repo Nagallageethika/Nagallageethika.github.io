@@ -11,6 +11,6 @@ Welcome to my blog! Choose a section to explore.
 
 ## ✨ Sections
 
-- [_posts](about-posts)
+- [posts](about-posts)
 
 ---
