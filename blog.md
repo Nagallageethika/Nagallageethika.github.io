@@ -3,20 +3,15 @@ layout: default
 title: Blogs
 ---
 
-# 📚 Blog Sections
+# 📰 All Blog Posts (Scroll to Read)
 
-Welcome to my blog! Choose a section to explore.
+{% for post in site.posts %}
+## {{ post.title }}
+<small>{{ post.date | date: "%B %d, %Y" }}</small>
 
----
-
-## ✨ Sections
-
-- [posts](about-posts)
+{{ post.content }}
 
 ---
-## 🗂️ All Blog Posts
 
-{% for post in site._posts %}
-- [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
