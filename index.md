@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lets Live
+title: Let's Live
 ---
 
 # Latest Posts
