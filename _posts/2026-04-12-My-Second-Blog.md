@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "My Second Post"
 date: 2026-04-12
 categories: blog
