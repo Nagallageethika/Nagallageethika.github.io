@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Geethika Nagalla
 ---
 
 # 👋 Welcome to My Site
