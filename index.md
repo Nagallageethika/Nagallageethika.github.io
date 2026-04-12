@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Let's Live
+title: Home
 ---
 
-# Latest Posts
+# 👋 Welcome to My Site
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+Choose a section to explore:
+
+## 📚 Subsections
+
+- [Blogs](blogs)
