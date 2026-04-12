@@ -4,7 +4,7 @@ plugins:
   - jekyll-remote-theme
 
 title: My Blog
-description: Welcome to my site
+description: You have entered into my life. Please be careful.
 
 markdown: kramdown
 kramdown:
