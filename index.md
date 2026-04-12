@@ -9,4 +9,4 @@ Choose a section to explore:
 
 ## 📚 Subsections
 
-- [Blogs](blogs)
+- [Blog](blog)
