@@ -25,4 +25,4 @@ title: Geethika Nagalla
 
 # 👋 Welcome to My Site
 
-[Blog](blog/) {: .section-box }
+[Blog](blog/) 
