@@ -1,28 +1,14 @@
 ---
 layout: default
-title: Geethika Nagalla
+title: Home
 ---
 
-<style>
-.section-box {
-  display: block;
-  background-color: #2ecc71; /* green */
-  color: white;
-  padding: 18px;
-  margin: 12px 0;
-  border-radius: 10px;
-  text-decoration: none;
-  font-size: 20px;
-  font-weight: 600;
-  text-align: center;
-  transition: 0.2s;
-}
-.section-box:hover {
-  background-color: #27ae60; /* darker green */
-  transform: scale(1.03);
-}
-</style>
+# Geethika Nagalla
+You have entered into my life. Please be careful.
 
-# 👋 Welcome to My Site
+### 📚 Sections  
+[Blogs](blogs) • [About Posts](about-posts) • [Embedded Systems](embedded-systems) • [German Learning](german-learning)
 
-[Blog](blog/) 
+---
+
+## 👋 Welcome to My Site
